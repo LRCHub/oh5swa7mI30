@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ノンタイトル",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-20T05:27:23.910364Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノンタイトル",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_ノンタイトル_Mafumafu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノンタイトル",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_ノンタイトル_まふまふ.txt"
+    }
+  ]
+}
